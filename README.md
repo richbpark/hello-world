@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-I trying to figure out Git Hub again
+
+I'm trying to figure out Git Hub again
